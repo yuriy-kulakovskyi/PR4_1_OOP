@@ -1,0 +1,5 @@
+if(EXISTS "/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR4/PR4_1/cmake-build-debug/PR3_3_C_tests[1]_tests.cmake")
+  include("/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR4/PR4_1/cmake-build-debug/PR3_3_C_tests[1]_tests.cmake")
+else()
+  add_test(PR3_3_C_tests_NOT_BUILT PR3_3_C_tests_NOT_BUILT)
+endif()

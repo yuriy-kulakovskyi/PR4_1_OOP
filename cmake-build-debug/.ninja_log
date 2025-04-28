@@ -1,0 +1,26 @@
+# ninja log v6
+2	165	1745821156538796336	CMakeFiles/PR4_1.dir/classes/Parallelepiped.cpp.o	94804c2c45c0ce07
+3	197	1745821156539317689	CMakeFiles/PR4_1.dir/classes/Sphere.cpp.o	f33885ca501ec579
+68	197	1745821166102667801	PR4_1	fe9919d763b83b00
+3	534	1745821156540175236	CMakeFiles/PR4_1.dir/main.cpp.o	bab03cb2987a5fb0
+4	68	1745821166038848394	CMakeFiles/PR4_1.dir/classes/Tetrahedron.cpp.o	800f9c7324dc7ca9
+6	165	1745821286701313283	CMakeFiles/PR4_1.dir/classes/Parallelepiped.cpp.o	c70fa680ea0ceb0c
+6	186	1745821286701652518	CMakeFiles/PR4_1.dir/classes/Sphere.cpp.o	ee01eea3c89f8e7b
+7	186	1745821286701786137	CMakeFiles/PR4_1.dir/classes/Tetrahedron.cpp.o	f4086e6961018b25
+7	427	1745821286702028044	CMakeFiles/PR4_1.dir/main.cpp.o	87796ede13f284f7
+427	525	1745821287121955326	PR4_1	fe9919d763b83b00
+6	165	1745821331522545633	CMakeFiles/PR4_1_tests.dir/classes/Parallelepiped.cpp.o	645dab5ec07f515d
+7	199	1745821331522984947	CMakeFiles/PR4_1_tests.dir/classes/Sphere.cpp.o	8d6e683b951e58a5
+7	204	1745821331523117608	CMakeFiles/PR4_1_tests.dir/classes/Tetrahedron.cpp.o	e9516ba6d4a3d193
+6	735	1745821331522402764	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	f5e0d4b5276889bd
+165	786	1745821331680899472	CMakeFiles/PR4_1_tests.dir/tests/tests.cpp.o	f9af692676fa4bac
+199	885	1745821331714886066	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	990509f0bf85efd
+6	1150	1745821331522257103	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	f4703ca99cbe5052
+6	1760	1745821331521864245	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	5bf317127177fb74
+1760	1818	1745821333276548513	lib/libgtest.a	b51b69e6de22023b
+1818	1838	1745821333334386008	lib/libgtest_main.a	ddd85a377c936fa9
+1818	1843	1745821333334159684	lib/libgmock.a	c8c98fe986cb389b
+1843	1862	1745821333359134620	lib/libgmock_main.a	c7b38932d055d06e
+1838	2306	1745821333820065740	PR4_1_tests	16fc06e065e3a2b9
+1838	2306	1745821333820065740	PR4_1_tests[1]_tests.cmake	16fc06e065e3a2b9
+1838	2306	1745821333820065740	/Users/yura_kulakovskyi/Documents/C++/OOP/PR4/PR4_1/cmake-build-debug/PR4_1_tests[1]_tests.cmake	16fc06e065e3a2b9

@@ -1,0 +1,30 @@
+Start testing: Apr 28 09:22 EEST
+----------------------------------------------------------
+1/1 Testing: ParallelepipedTest.SurfaceAreaCalculation
+1/1 Test: ParallelepipedTest.SurfaceAreaCalculation
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR4/PR4_1/cmake-build-debug/PR4_1_tests" "--gtest_filter=ParallelepipedTest.SurfaceAreaCalculation" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR4/PR4_1/cmake-build-debug
+"ParallelepipedTest.SurfaceAreaCalculation" start time: Apr 28 09:22 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR4/PR4_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = ParallelepipedTest.SurfaceAreaCalculation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ParallelepipedTest
+[ RUN      ] ParallelepipedTest.SurfaceAreaCalculation
+[       OK ] ParallelepipedTest.SurfaceAreaCalculation (0 ms)
+[----------] 1 test from ParallelepipedTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ParallelepipedTest.SurfaceAreaCalculation" end time: Apr 28 09:22 EEST
+"ParallelepipedTest.SurfaceAreaCalculation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 28 09:22 EEST
